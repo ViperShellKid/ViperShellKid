@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 <h3 align="center">🔐 Cybersecurity Learner 💻 Exploring Linux, Exploits & Secure Systems. Passionate about ethical hacking, privilege escalation, and backend engineering. Building tools, solving CTFs, and sharing what I learn.
 </h3>
 
