@@ -14,10 +14,11 @@
 
 - 📫 How to reach me **viper.shellkid@gmail.com or arunvj1317@gmail.com**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/arun-shellkid/</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunvj1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunvj1317" height="30" width="40" /></a>
 <a href="https://instagram.com/arunvj1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunvj1317" height="30" width="40" /></a>
+<a href="[https://instagram.com/arunvj1317](https://www.linkedin.com/in/arun-shellkid/)" target="blank"><img width="30" height="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
