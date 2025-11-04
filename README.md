@@ -22,7 +22,41 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://upload.vectorlogo.zone/logos/kali/images/f66fec5d-3e29-4d98-8eb5-496f9467792e.svg" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="kali_linux_logo" width="40" height="40"/> </a> <a href="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws_logo" width="40" height="40"/> </a></p>
+<p align="left">
+  <!-- Programming & OS -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- Cybersecurity Tools -->
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/29819582?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+    <img src="https://www.openwall.com/images/john-logo.png" alt="John the Ripper" width="40" height="40"/>
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
+    <img src="https://hashcat.net/wiki/lib/exe/fetch.php?media=hashcat-logo.png" alt="Hashcat" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/siem" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="SIEM (Elastic)" width="40" height="40"/>
+  </a>
+  <a href="https://www.tryhackme.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/tryhackme/images/0f2d0b9e-3c9f-4d3e-8c2e-2a8f2a6f3b9e.svg" alt="TryHackMe" width="40" height="40"/>
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-vj&show_icons=true&locale=en&layout=compact" alt="arun-vj" /></p>
 
