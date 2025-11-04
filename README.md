@@ -36,7 +36,7 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 
   <!-- Cybersecurity Tools -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/29819582?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
