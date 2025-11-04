@@ -24,8 +24,8 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming & OS -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/web-shield.png" alt="web-shield"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
