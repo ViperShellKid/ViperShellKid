@@ -37,8 +37,8 @@
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/deco/48/burp-suite.png" alt="burp-suite"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
