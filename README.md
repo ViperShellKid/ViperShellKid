@@ -1,8 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-<h3 align="center">🔐 Cybersecurity Learner 💻 Exploring Linux, Exploits & Secure Systems
-Passionate about ethical hacking, privilege escalation, and backend engineering. Building tools, solving CTFs, and sharing what I learn.
+<h3 align="center">🔐 Cybersecurity Learner 💻 Exploring Linux, Exploits & Secure Systems. Passionate about ethical hacking, privilege escalation, and backend engineering. Building tools, solving CTFs, and sharing what I learn.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-vj&label=Profile%20views&color=0e75b6&style=flat" alt="arun-vj" /> </p>
@@ -25,7 +24,7 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 <p align="left">
   <!-- Programming & OS -->
   <a href="" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/cyber-security.png" alt="cyber-security"/>
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/cyber-security.png" alt="cyber-security"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -36,26 +35,16 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 
   <!-- Cybersecurity Tools -->
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img width="50" height="50" src="https://img.icons8.com/ios/50/burp-suite.png" alt="burp-suite"/>
+    <img width="40" height="40" src="https://img.icons8.com/ios/50/burp-suite.png" alt="burp-suite"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.prod.website-files.com/62233c592d2a1e009d42f46c/67f971a859161943306bed77_John%20the%20Ripper.webp" alt="John the Ripper" width="40" height="40"/>
-
-  </a>
-  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-    <img src="https://hashcat.net/wiki/lib/exe/fetch.php?media=hashcat-logo.png" alt="Hashcat" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/siem" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="SIEM (Elastic)" width="40" height="40"/>
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
   </a>
   <a href="https://www.tryhackme.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/tryhackme/images/0f2d0b9e-3c9f-4d3e-8c2e-2a8f2a6f3b9e.svg" alt="TryHackMe" width="40" height="40"/>
+    <img width="40" height="40" src="https://img.icons8.com/ios/50/hacking.png" alt="hacking"/>
   </a>
 </p>
 
