@@ -25,7 +25,7 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
 <p align="left">
   <!-- Programming & OS -->
   <a href="" target="_blank" rel="noreferrer">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/web-shield.png" alt="web-shield"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/cyber-security.png" alt="cyber-security"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -39,13 +39,14 @@ Passionate about ethical hacking, privilege escalation, and backend engineering.
     <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/29819582?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/burp-suite.png" alt="burp-suite"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
   </a>
   <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-    <img src="https://www.openwall.com/images/john-logo.png" alt="John the Ripper" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/62233c592d2a1e009d42f46c/67f971a859161943306bed77_John%20the%20Ripper.webp" alt="John the Ripper" width="40" height="40"/>
+
   </a>
   <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
     <img src="https://hashcat.net/wiki/lib/exe/fetch.php?media=hashcat-logo.png" alt="Hashcat" width="40" height="40"/>
