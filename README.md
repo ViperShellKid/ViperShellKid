@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/arunvj1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunvj1317" height="30" width="40" /></a>
 <a href="https://instagram.com/arunvj1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunvj1317" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arun-shellkid/" target="blank"><img width="40" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/arun-shellkid/" target="blank"><img width="40" height="35" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
 </p>
 
