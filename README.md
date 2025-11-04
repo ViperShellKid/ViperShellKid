@@ -51,13 +51,22 @@
     <a href="/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/firewall.png" alt="firewall"/>
   </a>
-    </a>
-    <a href="/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/multicast.png" alt="multicast"/>
   </a>
-      </a>
+  </a>
     <a href="/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/stickers/100/virus.png" alt="virus"/>
+  </a>
+  <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/>
+  </a>
+    <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/external-malware-network-protection-system-inipagistudio-mixed-inipagistudio.png" alt="external-malware-network-protection-system-inipagistudio-mixed-inipagistudio"/>
+  </a>
+    <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/external-malware-security-prettycons-lineal-color-prettycons.png" alt="external-malware-security-prettycons-lineal-color-prettycons"/>
   </a>
 </p>
 
