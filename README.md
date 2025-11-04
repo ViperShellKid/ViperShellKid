@@ -38,13 +38,24 @@
     <img width="40" height="40" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/burp-suite.png" alt="burp-suite"/>
+    <img width="48" height="48" src="https://img.icons8.com/deco/48/burp-suite.png" alt="burp-suite"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/>
   </a>
-  <a href="https://www.tryhackme.com/" target="_blank" rel="noreferrer">
-    <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/hacking.png" alt="hacking"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/hacking.png" alt="hacking"/>
+  </a>
+    <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/firewall.png" alt="firewall"/>
+  </a>
+    </a>
+    <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/multicast.png" alt="multicast"/>
+  </a>
+      </a>
+    <a href="/" target="_blank" rel="noreferrer">
+    <img width="40" height="40" src="https://img.icons8.com/stickers/100/virus.png" alt="virus"/>
   </a>
 </p>
 
